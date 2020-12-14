@@ -8,7 +8,7 @@ I will show you how number systems work and also how to convert them in this tut
 
 ### *Number System Example*
 
-![Example](https://images.app.goo.gl/QxZ4Tf3MUBmcdJK6A)
+[Example](https://images.app.goo.gl/QxZ4Tf3MUBmcdJK6A)
 
 ## **Number Systems**
 
@@ -26,7 +26,7 @@ I will show you how number systems work and also how to convert them in this tut
 
 ## Number Conversion Chart
 
-![Number Conversion Chart](https://images.app.goo.gl/5gU6gi5JE6gp8Shz7)
+[Number Conversion Chart](https://images.app.goo.gl/5gU6gi5JE6gp8Shz7)
 
 *Here is a link to a Quick Video to show you how to do conversions fast*
 (https://youtu.be/E-Sg2YsvZds)
